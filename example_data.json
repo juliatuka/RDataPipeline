@@ -1,0 +1,16 @@
+{
+  "pulseOx": 96,
+  "IBI": [
+    600
+  ],
+  "stressScore": 75,
+  "heartRate": 101,
+  "bodyBattery": 26,
+  "accelxyz": [
+    -7.779330730438232,
+    5.866380214691162,
+    0.4610700011253357
+  ],
+  "timestamp": 1742376767,
+  "respirationRate": 15
+}
